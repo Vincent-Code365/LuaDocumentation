@@ -11,10 +11,11 @@
 
 ##### Functions:
 
-* ###### print(<value>) - The print function writes whatever you give it into the output area.
+* ###### print(<val>) - The print function writes whatever you give it into the output area.
 * ###### local <varName> = <value> - Local variables are only accessible in the "scope" they're in. A scope is just a chunk of code
-* <varName> = <value> - Global variables are what you get when you don't use local. They are accessible from anywhere in the code, and are not limited to a scope.
-* ###### -- <value> - Comments should be everywhere in your code. They are used to explain what your code does, and why it does it. They are also used to disable code. Comments are denoted by --. Anything after -- on a line is ignored.
+* <varName> = <val> - Global variables are what you get when you don't use local. They are accessible from anywhere in the code, and are not limited to a scope.
+* ###### -- <val> - Comments should be everywhere in your code. They are used to explain what your code does, and why it does it. They are also used to disable code. Comments are denoted by --. Anything after -- on a line is ignored.
 
-* --\[ <value> | <value> ]-- This is just a larger comment
-* ###### \[\[ <value> | <value> ]]
+* --\[ <val> | <val> ]-- This is just a larger comment
+* ###### \[\[ <val> | <value> ]]
+
